@@ -2,4 +2,4 @@
 *.class
 **/*
 !**/*.py
-!**/*.cpp
+!**/*.EstCondicional.py
